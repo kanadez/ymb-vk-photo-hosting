@@ -1,0 +1,85 @@
+#tab_panel_div{
+   width:660px; 
+   height:38px; 
+   margin-left:100px; 
+   margin-top:20px;
+}
+
+.tab{
+   color:rgb(176, 176, 176);
+   text-shadow:rgb(3, 3, 3) 0px -1px 0px;
+   background-color:rgb(75, 81, 94);
+   font-weight:bold;
+   float: left;
+   font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+   font-size: 12px;
+   margin-left: 5px;
+   padding: 11px 0 10px;
+   width: 305px;
+   text-align: center;
+   position: relative;
+   border-width:1px;
+   border-style:solid solid none;
+   border-right-color:rgb(59, 64, 74);
+   border-left-color:rgb(55, 60, 69);
+   background-image:-webkit-linear-gradient(90deg,rgb(47,51,59) 0%,rgb(84,90,105) 100%);
+   background-image:-moz-linear-gradient(90deg,rgb(47,51,59) 0%,rgb(84,90,105) 100%);
+   background-image:-o-linear-gradient(90deg,rgb(47,51,59) 0%,rgb(84,90,105) 100%);
+   background-image:-ms-linear-gradient(90deg,rgb(47,51,59) 0%,rgb(84,90,105) 100%);
+   border-top-color:rgb(103, 110, 130);
+   -webkit-box-shadow:rgb(101, 109, 128) 0px 1px 0px 0px inset;
+   -moz-box-shadow:rgb(101, 109, 128) 0px 1px 0px 0px inset;
+   box-shadow:rgb(101, 109, 128) 0px 1px 0px 0px inset;
+   border-top-left-radius:4px;
+   border-top-right-radius:4px;
+}
+
+.tab_unactive{
+   color:rgb(176, 176, 176);
+   text-shadow:rgb(3, 3, 3) 0px -1px 0px;
+   background-color:rgb(75, 81, 94);
+   font-weight:bold;
+   float: left;
+   font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+   font-size: 12px;
+   margin-left: 5px;
+   padding: 11px 0 10px;
+   width: 305px;
+   text-align: center;
+   position: relative;
+   border-width:1px;
+   border-style:solid solid none;
+   border-right-color:rgb(59, 64, 74);
+   border-left-color:rgb(55, 60, 69);
+   background-image:-webkit-linear-gradient(90deg,rgb(47,51,59) 0%,rgb(84,90,105) 100%);
+   background-image:-moz-linear-gradient(90deg,rgb(47,51,59) 0%,rgb(84,90,105) 100%);
+   background-image:-o-linear-gradient(90deg,rgb(47,51,59) 0%,rgb(84,90,105) 100%);
+   background-image:-ms-linear-gradient(90deg,rgb(47,51,59) 0%,rgb(84,90,105) 100%);
+   border-top-color:rgb(103, 110, 130);
+   -webkit-box-shadow:rgb(101, 109, 128) 0px 1px 0px 0px inset;
+   -moz-box-shadow:rgb(101, 109, 128) 0px 1px 0px 0px inset;
+   box-shadow:rgb(101, 109, 128) 0px 1px 0px 0px inset;
+   border-top-left-radius:4px;
+   border-top-right-radius:4px;
+   opacity: 0.7;
+}
+
+.tab_unactive:hover{
+   opacity:0.8;
+}
+
+#post_text_button{
+   float: right;
+}
+
+#text_post_input_div{
+   height: 180px;
+    margin: 20px 40px -20px;
+    width: 714px;
+    display: none;
+}
+
+#text_post_input_textarea{
+   width:710px;
+   height:100px;
+}

@@ -1,0 +1,35 @@
+.message_block{
+   text-align:center;
+   color:rgb(145, 150, 161);
+   text-shadow:rgb(47, 51, 59) 1px 1px 1px;
+   font-weight: bold;
+}
+
+#upload_button{
+   margin:20px 0px 0px;
+   background-image:-webkit-linear-gradient(-90deg,rgb(73,81,89) 0%,rgb(45,49,56) 100%);
+   background-image:-moz-linear-gradient(-90deg,rgb(73,81,89) 0%,rgb(45,49,56) 100%);
+   background-image:-o-linear-gradient(-90deg,rgb(73,81,89) 0%,rgb(45,49,56) 100%);
+   background-image:-ms-linear-gradient(-90deg,rgb(73,81,89) 0%,rgb(45,49,56) 100%);
+   border:1px solid;
+   border-color:rgb(64, 71, 79) rgb(48, 53, 59) rgb(34, 37, 41);
+   -webkit-box-shadow:rgb(89, 98, 110) 0px 1px 0px 0px inset;
+   -moz-box-shadow:rgb(89, 98, 110) 0px 1px 0px 0px inset;
+   box-shadow:rgb(89, 98, 110) 0px 1px 0px 0px inset;
+   -webkit-border-radius:9px;
+   -moz-border-radius:9px;
+   border-radius:9px;
+   color:#ffffff;
+   font: bold 13px tahoma,arial,verdana,sans-serif,Lucida Sans;
+   line-height: 1;
+   padding: 10px 15px 10px 15px;
+   text-align: center;
+   width: 100px;
+   height: 20px;
+   margin: 0 0 0 10px;
+}
+
+.blog_div_block{
+   text-align:center;
+   padding:20px;
+}

@@ -1,0 +1,106 @@
+.post_div{
+   background-color:rgb(48, 52, 59);
+   border:2px solid rgb(36, 39, 43);
+   -webkit-box-shadow:rgb(43, 47, 54) 0px 4px 3px -2px inset;
+   -moz-box-shadow:rgb(43, 47, 54) 0px 4px 3px -2px inset;
+   box-shadow:rgb(43, 47, 54) 0px 4px 3px -2px inset;
+   text-align:center;
+   padding:30px;
+   margin-left: auto;
+   margin-right: auto;
+   width:650px;
+   -webkit-border-radius:5px;
+   -moz-border-radius:5px;
+   border-radius:5px;
+   margin-top: 10px;
+}
+
+.post_social_panel{
+   width: 650px;
+   height: 30px;
+   margin-top: 10px;
+}
+
+.post_delete_button{
+   float: right;
+}
+
+.post_like_button{
+   float: right;
+}
+
+.stranger_post_likes_span{
+   margin-left:10px
+}
+
+.post_like_button{
+   float: right;
+}
+
+
+
+.user_post_likes_span{
+   margin-left:5px
+}
+
+.post_social_panel_like_i{
+   background: url("/img/like.png") no-repeat scroll 0 0 transparent;
+   float: right;
+   height: 18px;
+   margin: 2px 0 0 0px;
+   width: 20px;
+}
+
+.post_social_panel_dislike_i{
+   background: url("/img/dislike.png") no-repeat scroll 0 0 transparent;
+   float: right;
+   height: 18px;
+   margin: 2px 0 0 0px;
+   width: 20px;
+}
+
+.post_social_panel_span{
+   color: #FFFFFF;
+   line-height: 20px;
+   text-shadow:rgb(0, 0, 0) 0px 1px 1px;
+}
+
+.post_social_panel_repost_i{
+   background: url("/img/repost.png") no-repeat scroll 0 0 transparent;
+   float: right;
+   height: 16px;
+   margin: 4px 0 0 7px;
+   width: 20px;
+}
+
+.post_social_panel_delete_i{
+   background: url("/img/delete.png") no-repeat scroll 0 0 transparent;
+   float: right;
+   height: 18px;
+   margin: 2px 0 0 7px;
+   width: 20px;
+}
+
+.my_blog_reposts_social_panel_span{
+   float: left;
+   color: #fff;
+   font-weight: bold;
+   margin: 15px 0 0 0;
+   text-shadow:rgb(0, 0, 0) 0px 1px 1px;
+}
+
+.post_dislike_button{
+   float: right;
+}
+
+.stranger_blog_reposts_social_panel_span{
+   float: right;
+   color: #fff;
+   font-weight: bold;
+   margin: 15px 0 0 10px;
+   text-shadow: rgb(0, 0, 0) 0px 1px 1px;
+}
+
+.post_name_span{
+   float: left !important;
+}
